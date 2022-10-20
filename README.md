@@ -1,6 +1,6 @@
 # Custom Time Input (Custom Time Input)
 
-Ссылка: [React Burger](https://ininferno.github.io/custom-time-input/ "Custom Time Input")
+Ссылка: [Custom Time Input](https://ininferno.github.io/custom-time-input/ "Custom Time Input")
 Версия: v. 0.0.1
 
 ### Технологии: 
